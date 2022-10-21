@@ -1,0 +1,15 @@
+C:\Users\i-kol\Desktop\IT\All Practic\Двумерные массивы и рекурсия\HomeTask043\obj\Debug\net6.0\HomeTask043.csproj.AssemblyReference.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Двумерные массивы и рекурсия\HomeTask043\obj\Debug\net6.0\HomeTask043.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i-kol\Desktop\IT\All Practic\Двумерные массивы и рекурсия\HomeTask043\obj\Debug\net6.0\HomeTask043.AssemblyInfoInputs.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Двумерные массивы и рекурсия\HomeTask043\obj\Debug\net6.0\HomeTask043.AssemblyInfo.cs
+C:\Users\i-kol\Desktop\IT\All Practic\Двумерные массивы и рекурсия\HomeTask043\obj\Debug\net6.0\HomeTask043.csproj.CoreCompileInputs.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Двумерные массивы и рекурсия\HomeTask043\bin\Debug\net6.0\HomeTask043.exe
+C:\Users\i-kol\Desktop\IT\All Practic\Двумерные массивы и рекурсия\HomeTask043\bin\Debug\net6.0\HomeTask043.deps.json
+C:\Users\i-kol\Desktop\IT\All Practic\Двумерные массивы и рекурсия\HomeTask043\bin\Debug\net6.0\HomeTask043.runtimeconfig.json
+C:\Users\i-kol\Desktop\IT\All Practic\Двумерные массивы и рекурсия\HomeTask043\bin\Debug\net6.0\HomeTask043.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Двумерные массивы и рекурсия\HomeTask043\bin\Debug\net6.0\HomeTask043.pdb
+C:\Users\i-kol\Desktop\IT\All Practic\Двумерные массивы и рекурсия\HomeTask043\obj\Debug\net6.0\HomeTask043.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Двумерные массивы и рекурсия\HomeTask043\obj\Debug\net6.0\refint\HomeTask043.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Двумерные массивы и рекурсия\HomeTask043\obj\Debug\net6.0\HomeTask043.pdb
+C:\Users\i-kol\Desktop\IT\All Practic\Двумерные массивы и рекурсия\HomeTask043\obj\Debug\net6.0\HomeTask043.genruntimeconfig.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Двумерные массивы и рекурсия\HomeTask043\obj\Debug\net6.0\ref\HomeTask043.dll
