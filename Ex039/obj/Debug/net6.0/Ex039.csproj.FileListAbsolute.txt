@@ -1,0 +1,15 @@
+C:\Users\i-kol\Desktop\IT\All Practic\Двумерные массивы и рекурсия\Ex039\obj\Debug\net6.0\Ex039.csproj.AssemblyReference.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Двумерные массивы и рекурсия\Ex039\obj\Debug\net6.0\Ex039.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i-kol\Desktop\IT\All Practic\Двумерные массивы и рекурсия\Ex039\obj\Debug\net6.0\Ex039.AssemblyInfoInputs.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Двумерные массивы и рекурсия\Ex039\obj\Debug\net6.0\Ex039.AssemblyInfo.cs
+C:\Users\i-kol\Desktop\IT\All Practic\Двумерные массивы и рекурсия\Ex039\obj\Debug\net6.0\Ex039.csproj.CoreCompileInputs.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Двумерные массивы и рекурсия\Ex039\bin\Debug\net6.0\Ex039.exe
+C:\Users\i-kol\Desktop\IT\All Practic\Двумерные массивы и рекурсия\Ex039\bin\Debug\net6.0\Ex039.deps.json
+C:\Users\i-kol\Desktop\IT\All Practic\Двумерные массивы и рекурсия\Ex039\bin\Debug\net6.0\Ex039.runtimeconfig.json
+C:\Users\i-kol\Desktop\IT\All Practic\Двумерные массивы и рекурсия\Ex039\bin\Debug\net6.0\Ex039.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Двумерные массивы и рекурсия\Ex039\bin\Debug\net6.0\Ex039.pdb
+C:\Users\i-kol\Desktop\IT\All Practic\Двумерные массивы и рекурсия\Ex039\obj\Debug\net6.0\Ex039.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Двумерные массивы и рекурсия\Ex039\obj\Debug\net6.0\refint\Ex039.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Двумерные массивы и рекурсия\Ex039\obj\Debug\net6.0\Ex039.pdb
+C:\Users\i-kol\Desktop\IT\All Practic\Двумерные массивы и рекурсия\Ex039\obj\Debug\net6.0\Ex039.genruntimeconfig.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Двумерные массивы и рекурсия\Ex039\obj\Debug\net6.0\ref\Ex039.dll
